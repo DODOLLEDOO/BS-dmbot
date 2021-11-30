@@ -32,4 +32,4 @@ async def on_message(message):
                     pass
 
 
-client.run(__TOKEN__)
+client.run(OTE1MDkyMDE3MzYzNjg1Mzk2.YaWj2g.SkChHwjKejQMriZm2b_ihRqqKIs)
